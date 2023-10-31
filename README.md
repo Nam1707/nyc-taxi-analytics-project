@@ -1,7 +1,7 @@
 # Taxi Data Analytics | Data Engineering GCP Project
 
 ## Introduction
-The outcome of this project is to perform data analytics on NYC Yellow Taxi data using various tools and technologies, including GCP Storage, Python, Jupyter Notebook, Mage Data Pipeline Tool, BigQuery, and Tableau.
+The outcome of this project is building an ETL pipeline based on NYC Yellow Taxi data using various tools and technologies, including GCP Storage, Python, Jupyter Notebook, Mage Data Pipeline Tool, BigQuery, and Tableau.
 
 ## Technology Used
 
